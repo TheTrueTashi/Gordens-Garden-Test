@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1538665712
+#1538667118
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -23,6 +23,8 @@ images/sprite6-sheet0.png
 images/sprite7-sheet0.png
 images/tilemap2.png
 images/gustav-sheet0.png
+images/gustav-sheet1.png
+images/gustav-sheet2.png
 images/enemycolliderl-sheet0.png
 images/gordenzwech-sheet0.png
 images/gordenzwech-sheet1.png
