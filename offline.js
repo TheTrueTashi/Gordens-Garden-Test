@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1538776265,
+	"version": 1538836664,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,7 +7,6 @@
 		"offlineClient.js",
 		"images/tiledbackground.png",
 		"images/player-sheet0.png",
-		"images/player-sheet1.png",
 		"images/flagpoint-sheet0.png",
 		"images/camera.png",
 		"images/death-sheet0.png",
@@ -41,6 +40,8 @@
 		"images/seedpickup-sheet0.png",
 		"images/tilemap5.png",
 		"images/tilemap6.png",
+		"images/jerhard-sheet0.png",
+		"images/jünther-sheet0.png",
 		"media/checkpoint.m4a",
 		"media/checkpoint.ogg",
 		"media/hit_01.ogg",
