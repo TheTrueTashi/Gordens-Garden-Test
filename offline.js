@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1538837160,
+	"version": 1538868811,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,7 @@
 		"images/tilemap6.png",
 		"images/jerhard-sheet0.png",
 		"images/jünther-sheet0.png",
+		"images/mainscreen-sheet0.png",
 		"media/checkpoint.m4a",
 		"media/checkpoint.ogg",
 		"media/hit_01.ogg",
