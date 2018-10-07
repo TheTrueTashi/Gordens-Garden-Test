@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1538910773
+#1538920703
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -27,7 +27,7 @@ images/gustav-sheet2.png
 images/enemycolliderl-sheet0.png
 images/gordenzwech-sheet0.png
 images/gordenzwech-sheet1.png
-images/gottfried-sheet0.png
+images/jottfried-sheet0.png
 images/shuriken-sheet0.png
 images/lawnmower2-sheet0.png
 images/lawnmower2-sheet1.png
@@ -35,13 +35,14 @@ images/lawnmower2-sheet2.png
 images/sprite-sheet0.png
 images/particles.png
 images/shurikenicon-sheet0.png
-images/shurikenicon-sheet1.png
 images/seedpickup-sheet0.png
 images/tilemap5.png
 images/tilemap6.png
 images/jerhard-sheet0.png
 images/jünther-sheet0.png
 images/mainscreen-sheet0.png
+images/signjump-sheet0.png
+images/signshoot-sheet0.png
 media/checkpoint.m4a
 media/checkpoint.ogg
 media/hit_01.ogg
