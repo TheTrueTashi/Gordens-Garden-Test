@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1538991727
+#1539016078
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -50,13 +50,17 @@ media/hit_01.ogg
 media/jump_01.ogg
 media/jump_02.m4a
 media/jump_02.ogg
-media/jump_03.m4a
-media/jump_03.ogg
 media/lm_defeat.ogg
 media/lm_idle_01.ogg
 media/carpenters_garden.ogg
 media/gz_defeat.ogg
 media/gz_jump_1.ogg
+media/player_death.ogg
+media/seed_collect.ogg
+media/player_walk_01.ogg
+media/player_walk_02.ogg
+media/player_walk_03.ogg
+media/player_land.ogg
 icon-16.png
 icon-32.png
 icon-114.png
