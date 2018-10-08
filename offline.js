@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539016078,
+	"version": 1539017526,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -62,6 +62,8 @@
 		"media/player_walk_02.ogg",
 		"media/player_walk_03.ogg",
 		"media/player_land.ogg",
+		"media/seed_hit.ogg",
+		"media/justav.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
