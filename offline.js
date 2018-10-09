@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539017526,
+	"version": 1539073775,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,8 @@
 		"images/signjump-sheet0.png",
 		"images/signshoot-sheet0.png",
 		"images/signright-sheet0.png",
+		"images/youdiedicon-sheet0.png",
+		"images/pressetorestarticon-sheet0.png",
 		"media/checkpoint.m4a",
 		"media/checkpoint.ogg",
 		"media/hit_01.ogg",
